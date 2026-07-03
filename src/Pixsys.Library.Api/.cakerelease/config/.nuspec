@@ -5,9 +5,12 @@
     <title>Pixsys.Library.Api</title>
     <description>Helpers for API</description>
     <authors>Sylvain Signore</authors>
-    <version>1.1.0.0</version>
+    <version>1.2.0.0</version>
     <readme>README.md</readme>
     <projectUrl>https://github.com/PixsysBE/Pixsys.Library.Api</projectUrl>
+    <dependencies>
+      <group targetFramework="net10.0" />
+    </dependencies>   	
   </metadata>
   <files>
     <file src="bin/Release/**/*.dll" target="lib" />
